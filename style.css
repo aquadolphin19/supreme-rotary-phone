@@ -1,0 +1,137 @@
+
+
+#bio2 {
+    text-align: center;
+    vertical-align: middle;
+    background: linear-gradient(#f7c37e 10%, #fc0574 90%);
+
+}
+
+
+.links:hover {
+    background-color: darkcyan;
+}
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    color: aqua;
+    border: 5px;
+    border-style: dotted;
+}
+
+#facts {
+    text-align: center;
+    padding: 40px;
+    background-color: darkcyan;
+}
+
+#facts a {
+    color: coral;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 60px;
+    color: aliceblue;
+      text-align: center;
+}
+
+#picpic {
+    width: 100%
+}
+
+html {
+    text-align:center;
+}
+
+#food {
+    background-color: coral;
+}
+
+#food a {
+    color: cadetblue;
+    font-size: 50px;
+}
+
+food a:hover {
+    color:black;
+    font-size: 70px;
+}
+
+h1 {
+    background-color: chocolate;
+}
+
+#bbn:hover {
+ color: aquamarine;
+    font-size: 75px;
+}
+
+
+#live a {
+      font-size: 50px;
+    color: coral;
+
+
+}
+
+
+#talk a {
+    font-size: 50px;
+    color: cadetblue;
+
+}
+
+#survivel a {
+        color: coral;
+    font-size: 50px;
+
+}
+
+#live {
+    text-align: center;
+    padding: 40px;
+    background-color: darkcyan;
+}
+
+#talk {
+    text-align: center;
+    padding: 40px;
+    background-color: coral;
+}
+
+#survivel {
+    text-align: center;
+    padding: 40px;
+    background-color: darkcyan;
+}
+
+#why a {
+    font-size:50px;
+        color: darkcyan;
+    
+}
+
+
+#why {
+    background-color: coral;
+}
+
+#why p {
+    color: aliceblue;
+    font-size: 25px;
+}
+
+#dpic {
+    width: 100%;
+  text-align: center;
+    align-content: center
+        padding: 100px;
+}
